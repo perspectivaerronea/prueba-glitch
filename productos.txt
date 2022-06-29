@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Superliminal",
+    "price": 185.61,
+    "thumbnail": "https://store.steampowered.com/app/1049410/Superliminal/",
+    "id": 1
+  },
+  {
+    "title": "The Stanley Parable: Ultra Deluxeica",
+    "price": 161.99,
+    "thumbnail": "https://store.steampowered.com/app/1703340/The_Stanley_Parable_Ultra_Deluxe/",
+    "id": 2
+  },
+  {
+    "title": "UnMetal",
+    "price": 1324.13,
+    "thumbnail": "https://store.steampowered.com/app/1203710/UnMetal/",
+    "id": 3
+  },
+  {
+    "title": "Satisfactory",
+    "price": 1648.35,
+    "thumbnail": "https://store.steampowered.com/app/526870/Satisfactory/",
+    "id": 4
+  },
+  {
+    "title": "NieR:Automata",
+    "price": 1072.49,
+    "thumbnail": "https://store.steampowered.com/app/524220/NieRAutomata/",
+    "id": 5
+  }
+]
